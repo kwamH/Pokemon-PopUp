@@ -6,9 +6,14 @@
 
 
 <h2>Languages and Utilites</h2>
+
+
 - <b>Java</b>
--<b>Windows 11</b>
--<b>IDE: IntelliJ</b>
+- <b>Windows 11</b>
+- <b>IDE: IntelliJ</b>
+
+
+<h2>Program Walkthrough</h2>
 
 <p align="center">
 When the app is launched, a window opens and it shows a 3x3 grid of tiles with<br/>
